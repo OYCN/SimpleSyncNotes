@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/FileTree">
+        <file>Res/Svg/jilu.svg</file>
+        <file>Res/Svg/wenben.svg</file>
+        <file>Res/Svg/wenjian.svg</file>
+        <file>Res/Svg/wenjianjiadakai.svg</file>
+    </qresource>
+</RCC>
